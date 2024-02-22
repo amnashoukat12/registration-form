@@ -1,0 +1,12 @@
+ body {
+      background-color: #896EC1;
+      color: white;
+      font-family: 'Montserrat', sans-serif;
+    }
+    .btn-custom {
+      background-color: #0FE5E7;
+      color: white;
+    }
+    .card{
+    	background-color: #CCB1DC;
+    }
